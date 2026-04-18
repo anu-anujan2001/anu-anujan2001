@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Anujan I</h1>
-<h3 align="center">Computer Science Undergraduate | Aspiring Software Engineer</h3>
+<h3 align="center">Computer Science Graduate | Aspiring Software Engineer</h3>
 
 ---
 
